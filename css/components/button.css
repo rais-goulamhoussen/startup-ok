@@ -1,0 +1,12 @@
+.btn-grey {
+	background-color: brown;
+	padding: 8px;
+	border-radius: 15px;
+	box-shadow: 0 10px 10px rgba(0,0,0,.1);
+	transition: 0.3s ease;
+}
+
+.btn-grey:hover {
+	background-color: #9c9c9c;
+	color: white;
+}

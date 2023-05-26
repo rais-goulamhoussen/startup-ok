@@ -1,0 +1,30 @@
+/* Importing component files */
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/container.css");
+@import url("components/card.css");
+
+
+/* General style rules for fonts and colors */
+
+body {
+  font-family: "Gill Sans", serif;
+  font-size: 18px;
+  margin: 0px;
+  background-color: #f0f0f0;
+}
+
+h1, h2, h3 {
+  font-family: courier;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #bbc4c7;
+  transition: 0.3s ease;
+}
+
+a:hover {
+  color: #5c5c5c;
+}
